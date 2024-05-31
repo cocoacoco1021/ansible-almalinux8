@@ -27,8 +27,8 @@ OS ユーザの秘密鍵を設置します。
 ### 1.リポジトリを clone
 
 ```
-git clone https://github.com/keisukesanuki/default-almalinux8.git
-cd default-almalinux8
+git clone https://github.com/cocoacoco1021/ansible-almalinux8.git
+cd ansible-almalinux8
 ```
 
 ### 2.要件に併せて roles 以下の playbook をインクルード
