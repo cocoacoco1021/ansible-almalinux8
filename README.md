@@ -1,7 +1,7 @@
 ansible-almalinux8
 =========
 
-## これは何？
+## What is this ?
 
 - AlmaLinux8 の Ansible playbook です。
 
